@@ -19,15 +19,18 @@ Here are some key properties of a binary tree:
 
 ### In C, a binary tree can be represented using a structure and pointers. Here's an example:
 
-```struct Node {
+```
+struct Node {
     int data;
     struct Node* left;
     struct Node* right;
-};```
+};
+```
 
 ### Using this structure, we can create and manipulate a binary tree. Here's a simple example of creating a binary tree with three nodes:
 
-```#include <stdio.h>
+```
+#include <stdio.h>
 #include <stdlib.h>
 
 struct Node {
@@ -60,4 +63,5 @@ int main() {
     printf("Right Child: %d\n", root->right->data);
 
     return 0;
-}```
+}
+```
