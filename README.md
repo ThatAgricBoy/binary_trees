@@ -2,7 +2,7 @@
 
 > > A binary tree is a type of data structure used in computer science and programming. It is composed of nodes, where each node can have at most two children referred to as the left child and the right child. The binary tree follows a hierarchical structure, starting from the root node and branching out to form subtrees.
 
-Here are some key properties of a binary tree:
+### Here are some key properties of a binary tree:
 
 * Root Node: The topmost node in the tree is called the root node. It is the starting point of the tree.
 
